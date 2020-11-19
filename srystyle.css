@@ -1,0 +1,28 @@
+
+body {
+    background: rgb(65, 65, 65);
+    color: white;
+    font-family: Helvetica Neue, arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+    position: relative;
+    background-size:100% 100%;
+    background: rgb(1, 196, 255);
+    text-transform: uppercase;
+}
+
+#boton {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #188bc5;
+    border-radius: 6px;
+    border: 2px solid #00eeff;  
+}
+
